@@ -2,16 +2,16 @@ package br.com.dio.desafio.dominio;
 
 import java.time.LocalDate;
 
-public class Mentoria extends Conteudo {
-	
+public class Mentoria extends Conteudo {	
 	private LocalDate data;//Encapsulado
 	
+	
+	
 	@Override
-	public double calcularXP() {
-		return XP_PADRAO + 20d;
+	public double calcularXp() {
+		// TODO Auto-generated method stub
+		return XP_PADRAO + 20;
 	}
-	
-	
 	public LocalDate getData() {
 		return data;
 	}
