@@ -6,7 +6,7 @@ public class Curso extends Conteudo {
 	@Override
 	public double calcularXp() {
 		// TODO Auto-generated method stub
-		return XP_PADRAO + 20d;
+		return XP_PADRAO * cargaHoraria;
 	}
 	public int getCargaHoraria() {
 		return cargaHoraria;
