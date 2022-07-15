@@ -1,11 +1,11 @@
-package br.com.dio.desafio;
+package br.com.dio.exemplo;
 
 import java.time.LocalDate;
 
-import br.com.dio.desafio.dominio.Bootcamp;
-import br.com.dio.desafio.dominio.Curso;
-import br.com.dio.desafio.dominio.Dev;
-import br.com.dio.desafio.dominio.Mentoria;
+import br.com.dio.exemplo.dominio.Bootcamp;
+import br.com.dio.exemplo.dominio.Curso;
+import br.com.dio.exemplo.dominio.Dev;
+import br.com.dio.exemplo.dominio.Mentoria;
 
 public class Main {
 

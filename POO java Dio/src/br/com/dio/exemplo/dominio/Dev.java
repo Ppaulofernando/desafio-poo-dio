@@ -1,4 +1,4 @@
-package br.com.dio.desafio.dominio;
+package br.com.dio.exemplo.dominio;
 
 import java.util.LinkedHashSet;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package br.com.dio.desafio.dominio;
+package br.com.dio.exemplo.dominio;
 
 public class Curso extends Conteudo {
 	private int cargaHoraria;//Encapsulado	
